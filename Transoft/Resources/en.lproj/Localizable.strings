@@ -1,0 +1,118 @@
+/* 
+  Localizable.strings
+  Transoft
+
+  Created by Anand Yadav on 11/08/16.
+  Copyright © 2016 Transoft. All rights reserved.
+ */
+
+//#General
+defaultDropDown   = "Select";
+#mandatory   = "'#fieldname' is mandatory";
+
+continue   = "Continue";
+confirm  = "Confirm";
+search  = "Search";
+
+#Registration/Change Profile
+firstName  = "Name";
+lastName  = "Last Name";
+mobileNumber  = "Mobile Number";
+documentType  = "Document Type";
+identityCard  = "I.D";
+passport  = "Passport";
+documentID  = "Document Number";
+placeIssued  = "Place Issued";
+gender  = "Gender";
+male  = "Male";
+female  = "Female";
+birthDate  = "Birth Date";
+placeOfBirth  = "Birth Place";
+emailAddress  = "Email";
+captcha  = "Captcha";
+register  = "Register";
+privacyPolicy  = "Privacy Policy";
+termsOfUse  = "Terms of Use";
+
+#Activation
+otpMessage  = "OTP is sent to your registered mobile number";
+otp  = "OTP";
+password  = "Password";
+confirmPassword  = "Confirm Password";
+activate  = "Activate";
+otpNotReceived  = "OTP not received?";
+resendOTP  = "Click to resend";
+
+#Dashboard
+booking  = "RESERVAS - BUSCAR VUELOS";
+myFlights  = "MY FLIGHTS";
+services  = "SERVICES";
+information  = "INFORMATION";
+utilities  = "UTILITIES";
+offerInbox  = "Receive Special Offers Inbox";
+
+#Login
+login  = "Login";
+forgotPassword  = "Forgot Password?";
+
+#Unlock
+lockMessage1  = "Application is Locked";
+lockMessage2  = "Click to Unlock";
+unlock  = "Unlock";
+newPassword  = "New Password";
+
+#Book Flight - Search Flight
+disclaimer  = "Disclaimer";
+searchFlights  = "Search Flights";
+oneWay  = "One Way";
+roundTrip  = "Round Trip";
+economic  = "Economic";
+executive  = "Executive";
+firstClass  = "First";
+origin  = "Origin";
+destination  = "Destination";
+departureDate  = "Departure";
+returnDate  = "Return";
+passengers  = "Passengers";
+adults  = "Adults";
+children  = "Children";
+infants  = "Babies";
+addPassenger  = "Add Children and Babies";
+moreOptions  = "More Options";
+
+#Book Flight - Choose Flight
+choseFlight  = "Booking - Choose Flight";
+
+#Book Flight - Confirm Flight
+confirmFlight  = "Booking - Confirm Flight";
+fareRules  = "Fare Rules";
+
+#Book Flight - Passenger Info
+passengerInfo  = "Booking - Passenger Info";
+salutation  = "Salutation";
+mr  = "Mr.";
+mrs  = "Mrs.";
+miss  = "Ms.";
+
+#Book Flight - Contact Details
+contactDetails  = "Booking - Contact Details";
+city  = "City";
+nit  = "NIT";
+invoiceName  = "Invoice Name";
+
+#My Flights
+myFlightsHeader  = "My Flights";
+reservationCode  = "Reservation Code";
+
+#My Flights - Ticket Details
+ticketDetails  = "Ticket Details";
+changeBooking  = "Change Booking";
+cancelTicket  = "Cancel Ticket";
+addSpecialServices  = "Add Special Services";
+preCheckin  = "Pre-Checkin";
+
+#Add Special Services
+specialServices  = "Special Services";
+
+#Seat Layout
+selectSeat  = "Select Seat";

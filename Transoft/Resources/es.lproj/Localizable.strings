@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  Transoft
+
+  Created by Anand Yadav on 11/08/16.
+  Copyright © 2016 Transoft. All rights reserved.
+*/
+
+//#General
+defaultDropDown = "Seleccionar";
+#mandatory = "'#fieldname' es obligatorio";
+continue = "Continuar";
+confirm = "Confirmar";
+search = "Buscar";
+
+# Rgistration/Change Profile
+firstName = "Nombres";
+lastName = "Apellidos";
+mobileNumber = "TelÈfono MÛvil";
+documentType = "Tipo de Documento";
+identityCard = "C.I";
+passport = "Pasaporte";
+documentID = "N˙mero del Documento";
+placeIssued = "Lugar de EmisiÛn";
+gender = "GÈnero";
+male = "Masculino";
+female = "Femenino";
+birthDate = "Fecha de Nacimiento";
+placeOfBirth = "Lugar de Nacimiento";
+emailAddress = "Correo ElectrÛnico";
+captcha = "Captcha";
+register = "Registro";
+privacyPolicy = "PolÌtica de Privacidad";
+termsOfUse = "TÈrminos de Uso";
+
+#Activation
+otpMessage = "OTP se envÌa a su registrar n˙mero de mÛvil";
+otp = "OTP";
+password = "ContraseÒa";
+confirmPassword = "Confirmar ContraseÒa";
+activate = "Activar";
+otpNotReceived = "OTP no ha recibido?";
+resendOTP = "Haga clic para volver a enviar";
+
+#Dashboard
+booking = "RESERVAS - BUSCAR VUELOS";
+myFlights = "MIS VUELOS";
+services = "SERVICIOS";
+information = "INFORMACI”N";
+utilities = "UTILIDADES";
+offerInbox = "Recibir Ofertas Especiales Inbox";
+
+#Login
+login = "Acceso";
+forgotPassword = "OlvidÛ tu ContraseÒa?";
+
+#Unlock
+lockMessage1 = "AplicaciÛn est· Bloqueada";
+lockMessage2 = "Clic para Desbloquear";
+unlock = "Desbloquear";
+newPassword = "Nueva ContraseÒa";
+
+#Book Flight - Search Flight
+disclaimer = "Renuncia";
+searchFlights = "Buscador de Vuelos";
+oneWay = "Solo Ida";
+roundTrip = "Ida y Vuelta";
+economic = "EconÛmica";
+executive = "Ejecutiva";
+firstClass = "Primero";
+origin = "Origen";
+destination = "Destino";
+departureDate = "Ida";
+returnDate = "Vuelta";
+passengers = "Pasajeros";
+adults = "Adultos";
+children = "NiÒos";
+infants = "BebÈs";
+addPassenger = "AÒadir NiÒos y BebÈs";
+moreOptions = "M·s Opciones";
+
+#Book Flight - Choose Flight
+choseFlight = "Reservas - Elegir vuelos";
+
+#Book Flight - Confirm Flight
+confirmFlight = "Reservas - Confirmar Vuelo";
+fareRules = "Reglas Justas";
+
+#Book Flight - Passenger Info
+passengerInfo = "Reservas - Info del pasajero";
+salutation = "Saludo";
+mr = "Sr.";
+mrs = "Sra.";
+miss = "Srta.";
+
+#Book Flight - Contact Details
+contactDetails = "Reservas - Detalles de Contacto";
+city = "Ciudad";
+nit = "NIT";
+invoiceName = "Nombre para Factura";
+
+#My Flights
+myFlightsHeader = "Mis Vuelos";
+reservationCode = "CÛdigo ReservaciÛn";
+
+#My Flights - Ticket Details
+ticketDetails = "Detalles Entrada";
+changeBooking = "Cambiar de Reserva";
+cancelTicket = "Anular la Entrada";
+addSpecialServices = "Agregar Servicios Especiales";
+preCheckin = "Pre-Registrarse";
+
+#Add Special Services
+specialServices = "Servicios Especiales";
+
+#Seat Layout
+selectSeat = "Elegir Asiento";
+
+
+
